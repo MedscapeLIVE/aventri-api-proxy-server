@@ -1,3 +1,1 @@
-# Aventri Proxy Server
-
-Server to retrive data from the [Aventri API](https://developer.aventri.com) while hidding administrator keys and ids.
+Looks like this code base is out of date. Please use the gitlab instance https://gitlab.webmd.com/erodriguez/stova-service 
